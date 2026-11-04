@@ -1,0 +1,4 @@
+__pycache__/
+build/
+cursor-options/*
+!cursor-options/sheet.png

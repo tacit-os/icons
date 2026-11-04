@@ -1,0 +1,4047 @@
+{
+"check": {
+"count": 42,
+"where": [
+"background",
+"bar",
+"bluetooth",
+"desktopMenu",
+"island",
+"modules",
+"overlay",
+"screenTranslator",
+"services",
+"settings",
+"sidebarRight",
+"wallpaperSelector",
+"widgets"
+]
+},
+"close": {
+"count": 27,
+"where": [
+"background",
+"capture",
+"equalizer",
+"files",
+"island",
+"models",
+"modules",
+"overlay",
+"screenTranslator",
+"settings",
+"welcome",
+"widgets"
+]
+},
+"music_note": {
+"count": 25,
+"where": [
+"background",
+"bar",
+"equalizer",
+"island",
+"models",
+"modules",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"opacity": {
+"count": 22,
+"where": [
+"island",
+"lock",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"content_copy": {
+"count": 20,
+"where": [
+"files",
+"island",
+"modules",
+"overlay",
+"overview",
+"services",
+"settings",
+"widgets"
+]
+},
+"add": {
+"count": 19,
+"where": [
+"background",
+"modules",
+"settings",
+"sidebarRight",
+"tacit-settings",
+"widgets"
+]
+},
+"search": {
+"count": 17,
+"where": [
+"bar",
+"files",
+"modules",
+"overview",
+"services",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"pause": {
+"count": 17,
+"where": [
+"background",
+"bar",
+"island",
+"lock",
+"settings",
+"widgets"
+]
+},
+"lock": {
+"count": 16,
+"where": [
+"background",
+"desktopMenu",
+"panels",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"image": {
+"count": 16,
+"where": [
+"background",
+"island",
+"services",
+"settings",
+"tacit-settings",
+"wallpaperSelector"
+]
+},
+"progress_activity": {
+"count": 15,
+"where": [
+"bar",
+"claude",
+"island",
+"lock",
+"modules",
+"overview",
+"polkit",
+"services",
+"settings"
+]
+},
+"chevron_right": {
+"count": 14,
+"where": [
+"background",
+"bar",
+"desktopMenu",
+"modules",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"bluetooth": {
+"count": 14,
+"where": [
+"bar",
+"bluetooth",
+"models",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"timer": {
+"count": 14,
+"where": [
+"background",
+"island",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"error": {
+"count": 14,
+"where": [
+"ReloadPopup",
+"files",
+"modules",
+"services",
+"settings",
+"widgets"
+]
+},
+"wifi": {
+"count": 13,
+"where": [
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"smart_toy": {
+"count": 13,
+"where": [
+"files",
+"island",
+"modules",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"schedule": {
+"count": 13,
+"where": [
+"background",
+"files",
+"island",
+"settings",
+"tacit-settings"
+]
+},
+"folder": {
+"count": 13,
+"where": [
+"dropover",
+"files",
+"island",
+"modules",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"folder_open": {
+"count": 13,
+"where": [
+"files",
+"modules",
+"overlay",
+"services",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"play_arrow": {
+"count": 13,
+"where": [
+"background",
+"bar",
+"island",
+"lock",
+"widgets"
+]
+},
+"download": {
+"count": 12,
+"where": [
+"background",
+"files",
+"island",
+"modules",
+"services",
+"settings",
+"tacit-settings",
+"wallpaperSelector"
+]
+},
+"power_settings_new": {
+"count": 12,
+"where": [
+"background",
+"bar",
+"lock",
+"services",
+"sessionScreen",
+"settings",
+"tacit-settings"
+]
+},
+"keyboard": {
+"count": 12,
+"where": [
+"bar",
+"models",
+"onScreenKeyboard",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"terminal": {
+"count": 11,
+"where": [
+"modules",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"notifications": {
+"count": 11,
+"where": [
+"bar",
+"island",
+"notificationPopup",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"volume_up": {
+"count": 11,
+"where": [
+"bar",
+"island",
+"models",
+"onScreenDisplay",
+"overlay",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"bolt": {
+"count": 11,
+"where": [
+"bar",
+"equalizer",
+"island",
+"lock",
+"overlay",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"memory": {
+"count": 11,
+"where": [
+"background",
+"bar",
+"settings",
+"tacit-settings"
+]
+},
+"hard_drive": {
+"count": 11,
+"where": [
+"background",
+"bar",
+"island",
+"lock",
+"services",
+"tacit-settings"
+]
+},
+"skip_next": {
+"count": 11,
+"where": [
+"background",
+"bar",
+"island",
+"lock",
+"widgets"
+]
+},
+"wallpaper": {
+"count": 10,
+"where": [
+"GlobalStates",
+"background",
+"services",
+"settings",
+"wallpaperSelector",
+"welcome",
+"widgets"
+]
+},
+"expand_more": {
+"count": 10,
+"where": [
+"bar",
+"files",
+"modules",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"dark_mode": {
+"count": 10,
+"where": [
+"bar",
+"lock",
+"sessionScreen",
+"settings",
+"tacit-settings",
+"wallpaperSelector"
+]
+},
+"mic": {
+"count": 10,
+"where": [
+"bar",
+"equalizer",
+"models",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"battery_alert": {
+"count": 10,
+"where": [
+"island",
+"lock",
+"services",
+"tacit-settings"
+]
+},
+"files": {
+"count": 10,
+"where": [
+"modules",
+"services",
+"tacit-settings"
+]
+},
+"info": {
+"count": 10,
+"where": [
+"island",
+"overlay",
+"services",
+"settings",
+"welcome",
+"widgets"
+]
+},
+"swap_horiz": {
+"count": 10,
+"where": [
+"bar",
+"overlay",
+"settings"
+]
+},
+"label": {
+"count": 9,
+"where": [
+"background",
+"claude",
+"files",
+"services"
+]
+},
+"settings": {
+"count": 9,
+"where": [
+"background",
+"desktopMenu",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"screenshot_monitor": {
+"count": 9,
+"where": [
+"files",
+"island",
+"modules",
+"services",
+"settings"
+]
+},
+"skip_previous": {
+"count": 9,
+"where": [
+"background",
+"island",
+"lock",
+"widgets"
+]
+},
+"back_hand": {
+"count": 8,
+"where": [
+"claude",
+"island",
+"modules",
+"services"
+]
+},
+"palette": {
+"count": 8,
+"where": [
+"services",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"vpn_key": {
+"count": 8,
+"where": [
+"models",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"apps": {
+"count": 8,
+"where": [
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"open_in_new": {
+"count": 8,
+"where": [
+"island",
+"modules",
+"services",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"thermostat": {
+"count": 8,
+"where": [
+"background",
+"bar",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"volume_off": {
+"count": 8,
+"where": [
+"bar",
+"island",
+"models",
+"onScreenDisplay",
+"services",
+"sidebarRight"
+]
+},
+"edit": {
+"count": 8,
+"where": [
+"background",
+"modules",
+"settings"
+]
+},
+"arrow_upward": {
+"count": 8,
+"where": [
+"bar",
+"files",
+"modules",
+"settings"
+]
+},
+"swap_vert": {
+"count": 8,
+"where": [
+"settings"
+]
+},
+"planner_review": {
+"count": 8,
+"where": [
+"bar",
+"overlay",
+"settings"
+]
+},
+"light": {
+"count": 7,
+"where": [
+"lock",
+"models",
+"services",
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"colorize": {
+"count": 7,
+"where": [
+"bar",
+"models",
+"settings",
+"tacit-settings"
+]
+},
+"light_mode": {
+"count": 7,
+"where": [
+"bar",
+"onScreenDisplay",
+"settings",
+"sidebarRight",
+"tacit-settings",
+"wallpaperSelector"
+]
+},
+"grid_view": {
+"count": 7,
+"where": [
+"island",
+"overview",
+"settings",
+"tacit-settings"
+]
+},
+"public": {
+"count": 7,
+"where": [
+"background",
+"bar",
+"settings",
+"tacit-settings"
+]
+},
+"blur_on": {
+"count": 7,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"speed": {
+"count": 7,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"bedtime": {
+"count": 7,
+"where": [
+"background",
+"bar",
+"models",
+"modules",
+"services",
+"tacit-settings"
+]
+},
+"monitor": {
+"count": 7,
+"where": [
+"settings",
+"tacit-settings",
+"widgets"
+]
+},
+"picture_as_pdf": {
+"count": 7,
+"where": [
+"background",
+"modules",
+"services",
+"tacit-settings"
+]
+},
+"check_circle": {
+"count": 7,
+"where": [
+"ReloadPopup",
+"background",
+"services",
+"sidebarRight"
+]
+},
+"restart_alt": {
+"count": 7,
+"where": [
+"lock",
+"modules",
+"services",
+"sessionScreen"
+]
+},
+"auto_awesome": {
+"count": 7,
+"where": [
+"desktopMenu",
+"overview",
+"services",
+"settings"
+]
+},
+"imagesmode": {
+"count": 7,
+"where": [
+"background",
+"bar",
+"models",
+"overlay",
+"settings"
+]
+},
+"push_pin": {
+"count": 7,
+"where": [
+"bar",
+"files",
+"modules",
+"settings"
+]
+},
+"stacks": {
+"count": 7,
+"where": [
+"background",
+"desktopMenu",
+"files",
+"island",
+"modules",
+"settings"
+]
+},
+"arrow_downward": {
+"count": 7,
+"where": [
+"bar",
+"modules",
+"settings"
+]
+},
+"mouse": {
+"count": 7,
+"where": [
+"overlay",
+"settings"
+]
+},
+"arrow_back": {
+"count": 7,
+"where": [
+"background",
+"files",
+"settings"
+]
+},
+"block": {
+"count": 7,
+"where": [
+"settings"
+]
+},
+"code": {
+"count": 6,
+"where": [
+"code",
+"island",
+"modules",
+"services",
+"tacit-settings"
+]
+},
+"bluetooth_disabled": {
+"count": 6,
+"where": [
+"bar",
+"models",
+"services",
+"tacit-settings"
+]
+},
+"keep": {
+"count": 6,
+"where": [
+"onScreenKeyboard",
+"overlay",
+"settings",
+"tacit-settings"
+]
+},
+"person": {
+"count": 6,
+"where": [
+"background",
+"settings",
+"tacit-settings"
+]
+},
+"select_window": {
+"count": 6,
+"where": [
+"island",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"account_circle": {
+"count": 6,
+"where": [
+"background",
+"bar",
+"services",
+"settings",
+"tacit-settings"
+]
+},
+"draft": {
+"count": 6,
+"where": [
+"dropover",
+"files",
+"island",
+"modules"
+]
+},
+"screen_record": {
+"count": 6,
+"where": [
+"bar",
+"models",
+"overlay",
+"settings"
+]
+},
+"coffee": {
+"count": 6,
+"where": [
+"background",
+"island",
+"lock",
+"models"
+]
+},
+"mic_off": {
+"count": 6,
+"where": [
+"bar",
+"models",
+"sidebarRight"
+]
+},
+"list": {
+"count": 6,
+"where": [
+"background",
+"files",
+"modules"
+]
+},
+"deployed_code_update": {
+"count": 6,
+"where": [
+"bar",
+"settings"
+]
+},
+"av_timer": {
+"count": 6,
+"where": [
+"settings"
+]
+},
+"circle": {
+"count": 6,
+"where": [
+"island",
+"overview",
+"settings"
+]
+},
+"cloud": {
+"count": 6,
+"where": [
+"background",
+"bar"
+]
+},
+"widgets": {
+"count": 5,
+"where": [
+"desktopMenu",
+"overlay",
+"settings",
+"tacit-settings"
+]
+},
+"rounded_corner": {
+"count": 5,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"animation": {
+"count": 5,
+"where": [
+"overlay",
+"settings",
+"tacit-settings"
+]
+},
+"brightness_6": {
+"count": 5,
+"where": [
+"island",
+"services",
+"settings",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"screenshot": {
+"count": 5,
+"where": [
+"files",
+"island",
+"modules",
+"services"
+]
+},
+"delete": {
+"count": 5,
+"where": [
+"background",
+"files",
+"services",
+"widgets"
+]
+},
+"keyboard_arrow_down": {
+"count": 5,
+"where": [
+"bar",
+"modules",
+"widgets"
+]
+},
+"remove": {
+"count": 5,
+"where": [
+"background",
+"files",
+"modules",
+"sidebarRight",
+"widgets"
+]
+},
+"graphic_eq": {
+"count": 5,
+"where": [
+"equalizer",
+"models",
+"settings"
+]
+},
+"keyboard_hide": {
+"count": 5,
+"where": [
+"models",
+"onScreenKeyboard",
+"settings"
+]
+},
+"screenshot_region": {
+"count": 5,
+"where": [
+"bar",
+"models",
+"overlay",
+"settings"
+]
+},
+"home": {
+"count": 5,
+"where": [
+"island",
+"modules",
+"settings"
+]
+},
+"style": {
+"count": 5,
+"where": [
+"settings"
+]
+},
+"arrow_forward": {
+"count": 5,
+"where": [
+"files",
+"settings"
+]
+},
+"title": {
+"count": 5,
+"where": [
+"overview",
+"settings"
+]
+},
+"move": {
+"count": 5,
+"where": [
+"files",
+"settings"
+]
+},
+"hide": {
+"count": 5,
+"where": [
+"background",
+"settings"
+]
+},
+"format_paint": {
+"count": 4,
+"where": [
+"desktopMenu",
+"settings",
+"tacit-settings",
+"welcome"
+]
+},
+"bluetooth_connected": {
+"count": 4,
+"where": [
+"bar",
+"models",
+"services",
+"tacit-settings"
+]
+},
+"visibility": {
+"count": 4,
+"where": [
+"bar",
+"settings",
+"tacit-settings"
+]
+},
+"partly_cloudy_day": {
+"count": 4,
+"where": [
+"background",
+"desktopMenu",
+"modules",
+"tacit-settings"
+]
+},
+"wifi_find": {
+"count": 4,
+"where": [
+"services",
+"sidebarRight",
+"tacit-settings"
+]
+},
+"content_paste": {
+"count": 4,
+"where": [
+"files",
+"modules",
+"settings",
+"tacit-settings"
+]
+},
+"badge": {
+"count": 4,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"aspect_ratio": {
+"count": 4,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"key": {
+"count": 4,
+"where": [
+"screenTranslator",
+"settings",
+"tacit-settings"
+]
+},
+"description": {
+"count": 4,
+"where": [
+"modules",
+"services",
+"tacit-settings"
+]
+},
+"width": {
+"count": 4,
+"where": [
+"ReloadPopup",
+"settings"
+]
+},
+"folder_zip": {
+"count": 4,
+"where": [
+"modules",
+"services",
+"widgets"
+]
+},
+"hearing_disabled": {
+"count": 4,
+"where": [
+"services"
+]
+},
+"edit_note": {
+"count": 4,
+"where": [
+"modules",
+"services"
+]
+},
+"lan": {
+"count": 4,
+"where": [
+"bar",
+"services",
+"settings"
+]
+},
+"radio": {
+"count": 4,
+"where": [
+"services",
+"settings"
+]
+},
+"done": {
+"count": 4,
+"where": [
+"island",
+"services",
+"settings"
+]
+},
+"call_to_action": {
+"count": 4,
+"where": [
+"services",
+"settings"
+]
+},
+"desktop_windows": {
+"count": 4,
+"where": [
+"services",
+"settings",
+"widgets"
+]
+},
+"download_done": {
+"count": 4,
+"where": [
+"files",
+"services",
+"settings"
+]
+},
+"refresh": {
+"count": 4,
+"where": [
+"modules",
+"services",
+"settings",
+"wallpaperSelector"
+]
+},
+"fiber_manual_record": {
+"count": 4,
+"where": [
+"island",
+"services",
+"settings"
+]
+},
+"vpn_key_off": {
+"count": 4,
+"where": [
+"models",
+"services",
+"settings",
+"sidebarRight"
+]
+},
+"start": {
+"count": 4,
+"where": [
+"modules",
+"services"
+]
+},
+"height": {
+"count": 4,
+"where": [
+"settings",
+"widgets"
+]
+},
+"stop_circle": {
+"count": 4,
+"where": [
+"bar",
+"island",
+"models"
+]
+},
+"chevron_left": {
+"count": 4,
+"where": [
+"background",
+"bar",
+"sidebarRight"
+]
+},
+"delete_forever": {
+"count": 4,
+"where": [
+"files",
+"sidebarRight"
+]
+},
+"colors": {
+"count": 4,
+"where": [
+"settings"
+]
+},
+"battery_android_full": {
+"count": 4,
+"where": [
+"bar",
+"overlay",
+"settings"
+]
+},
+"timer_10": {
+"count": 4,
+"where": [
+"settings"
+]
+},
+"cookie": {
+"count": 4,
+"where": [
+"settings"
+]
+},
+"line_curve": {
+"count": 4,
+"where": [
+"settings"
+]
+},
+"numbers": {
+"count": 4,
+"where": [
+"background",
+"settings"
+]
+},
+"interests": {
+"count": 4,
+"where": [
+"settings"
+]
+},
+"add_photo_alternate": {
+"count": 3,
+"where": [
+"background",
+"tacit-settings"
+]
+},
+"autofps_select": {
+"count": 3,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"device_unknown": {
+"count": 3,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"battery_charging_full": {
+"count": 3,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"monitor_heart": {
+"count": 3,
+"where": [
+"background",
+"desktopMenu",
+"tacit-settings"
+]
+},
+"photo_library": {
+"count": 3,
+"where": [
+"background",
+"desktopMenu",
+"tacit-settings"
+]
+},
+"call": {
+"count": 3,
+"where": [
+"modules",
+"tacit-settings"
+]
+},
+"sync": {
+"count": 3,
+"where": [
+"files",
+"settings",
+"tacit-settings"
+]
+},
+"battery_full": {
+"count": 3,
+"where": [
+"background",
+"island",
+"tacit-settings"
+]
+},
+"splitscreen_right": {
+"count": 3,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"language": {
+"count": 3,
+"where": [
+"services",
+"settings",
+"welcome"
+]
+},
+"notifications_off": {
+"count": 3,
+"where": [
+"killDialog",
+"services",
+"widgets"
+]
+},
+"visibility_off": {
+"count": 3,
+"where": [
+"files",
+"services",
+"widgets"
+]
+},
+"downloading": {
+"count": 3,
+"where": [
+"files",
+"services"
+]
+},
+"browse": {
+"count": 3,
+"where": [
+"modules",
+"services",
+"settings"
+]
+},
+"texture": {
+"count": 3,
+"where": [
+"services",
+"settings"
+]
+},
+"rate_review": {
+"count": 3,
+"where": [
+"island",
+"services"
+]
+},
+"travel_explore": {
+"count": 3,
+"where": [
+"services",
+"settings"
+]
+},
+"keyboard_arrow_up": {
+"count": 3,
+"where": [
+"bar",
+"modules",
+"widgets"
+]
+},
+"notifications_active": {
+"count": 3,
+"where": [
+"models",
+"settings",
+"widgets"
+]
+},
+"lyrics": {
+"count": 3,
+"where": [
+"background",
+"widgets"
+]
+},
+"equalizer": {
+"count": 3,
+"where": [
+"equalizer",
+"widgets"
+]
+},
+"scale": {
+"count": 3,
+"where": [
+"island",
+"lock",
+"widgets"
+]
+},
+"energy_savings_leaf": {
+"count": 3,
+"where": [
+"bar",
+"models"
+]
+},
+"local_fire_department": {
+"count": 3,
+"where": [
+"bar",
+"models"
+]
+},
+"notifications_paused": {
+"count": 3,
+"where": [
+"bar",
+"models",
+"notificationPopup"
+]
+},
+"left_panel_open": {
+"count": 3,
+"where": [
+"files",
+"modules",
+"settings"
+]
+},
+"neurology": {
+"count": 3,
+"where": [
+"modules"
+]
+},
+"undo": {
+"count": 3,
+"where": [
+"files",
+"island",
+"modules"
+]
+},
+"invert_colors": {
+"count": 3,
+"where": [
+"desktopMenu",
+"settings"
+]
+},
+"wb_twilight": {
+"count": 3,
+"where": [
+"background",
+"bar",
+"onScreenDisplay"
+]
+},
+"expand_less": {
+"count": 3,
+"where": [
+"files",
+"sidebarRight"
+]
+},
+"tune": {
+"count": 3,
+"where": [
+"background",
+"equalizer",
+"sidebarRight"
+]
+},
+"fingerprint": {
+"count": 3,
+"where": [
+"bar",
+"lock"
+]
+},
+"arrow_right_alt": {
+"count": 3,
+"where": [
+"lock",
+"polkit"
+]
+},
+"waving_hand": {
+"count": 3,
+"where": [
+"island",
+"settings"
+]
+},
+"screenshot_frame_2": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"ads_click": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"grid_on": {
+"count": 3,
+"where": [
+"background",
+"settings"
+]
+},
+"deblur": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"point_scan": {
+"count": 3,
+"where": [
+"overlay",
+"settings"
+]
+},
+"panorama": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"gradient": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"timelapse": {
+"count": 3,
+"where": [
+"bar",
+"settings"
+]
+},
+"save": {
+"count": 3,
+"where": [
+"background",
+"settings"
+]
+},
+"date_range": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"calendar_month": {
+"count": 3,
+"where": [
+"background",
+"settings"
+]
+},
+"blur_circular": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"layers": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"screen_rotation": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"format_quote": {
+"count": 3,
+"where": [
+"background",
+"settings"
+]
+},
+"notes": {
+"count": 3,
+"where": [
+"background",
+"overlay",
+"settings"
+]
+},
+"align_horizontal_center": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"view_day": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"crop_3_2": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"tab_group": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"pill": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"view_column_2": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"tablet": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"zoom_in": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"auto_awesome_mosaic": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"border_outer": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"wifi_tethering": {
+"count": 3,
+"where": [
+"settings"
+]
+},
+"delete_sweep": {
+"count": 3,
+"where": [
+"files",
+"island",
+"notificationPopup"
+]
+},
+"content_cut": {
+"count": 3,
+"where": [
+"files",
+"regionSelector"
+]
+},
+"cut": {
+"count": 3,
+"where": [
+"files"
+]
+},
+"more": {
+"count": 2,
+"where": [
+"claude"
+]
+},
+"create_new_folder": {
+"count": 2,
+"where": [
+"files",
+"tacit-settings"
+]
+},
+"merge": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"speaker": {
+"count": 2,
+"where": [
+"sidebarRight",
+"tacit-settings"
+]
+},
+"wifi_off": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"fit_screen": {
+"count": 2,
+"where": [
+"tacit-settings"
+]
+},
+"border_style": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"translate": {
+"count": 2,
+"where": [
+"services",
+"tacit-settings"
+]
+},
+"calculate": {
+"count": 2,
+"where": [
+"services",
+"tacit-settings"
+]
+},
+"mood": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"format_size": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"motion_mode": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"login": {
+"count": 2,
+"where": [
+"tacit-settings"
+]
+},
+"lock_clock": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"mail": {
+"count": 2,
+"where": [
+"tacit-settings"
+]
+},
+"developer_board": {
+"count": 2,
+"where": [
+"background",
+"tacit-settings"
+]
+},
+"deployed_code": {
+"count": 2,
+"where": [
+"settings",
+"tacit-settings"
+]
+},
+"signal_wifi_4_bar": {
+"count": 2,
+"where": [
+"services",
+"sidebarRight"
+]
+},
+"network_wifi_2_bar": {
+"count": 2,
+"where": [
+"services",
+"sidebarRight"
+]
+},
+"network_wifi_1_bar": {
+"count": 2,
+"where": [
+"services",
+"sidebarRight"
+]
+},
+"signal_wifi_0_bar": {
+"count": 2,
+"where": [
+"services",
+"sidebarRight"
+]
+},
+"category": {
+"count": 2,
+"where": [
+"services",
+"settings"
+]
+},
+"bug_report": {
+"count": 2,
+"where": [
+"services",
+"settings"
+]
+},
+"toast": {
+"count": 2,
+"where": [
+"services",
+"settings"
+]
+},
+"select_window_2": {
+"count": 2,
+"where": [
+"services"
+]
+},
+"send": {
+"count": 2,
+"where": [
+"modules",
+"services"
+]
+},
+"manage_search": {
+"count": 2,
+"where": [
+"modules"
+]
+},
+"more_horiz": {
+"count": 2,
+"where": [
+"modules",
+"sidebarRight"
+]
+},
+"cloud_off": {
+"count": 2,
+"where": [
+"modules",
+"wallpaperSelector"
+]
+},
+"rainy_light": {
+"count": 2,
+"where": [
+"bar",
+"modules"
+]
+},
+"rainy": {
+"count": 2,
+"where": [
+"bar",
+"modules"
+]
+},
+"tv_displays": {
+"count": 2,
+"where": [
+"settings",
+"widgets"
+]
+},
+"file_open": {
+"count": 2,
+"where": [
+"settings",
+"widgets"
+]
+},
+"more_vert": {
+"count": 2,
+"where": [
+"settings",
+"widgets"
+]
+},
+"music_cast": {
+"count": 2,
+"where": [
+"models",
+"settings"
+]
+},
+"night_sight_auto": {
+"count": 2,
+"where": [
+"models",
+"sidebarRight"
+]
+},
+"contrast": {
+"count": 2,
+"where": [
+"models",
+"sidebarRight"
+]
+},
+"left_panel_close": {
+"count": 2,
+"where": [
+"files",
+"modules"
+]
+},
+"edit_square": {
+"count": 2,
+"where": [
+"bar",
+"modules"
+]
+},
+"stop": {
+"count": 2,
+"where": [
+"island",
+"modules"
+]
+},
+"radio_button_checked": {
+"count": 2,
+"where": [
+"modules",
+"settings"
+]
+},
+"radio_button_unchecked": {
+"count": 2,
+"where": [
+"island",
+"modules"
+]
+},
+"note": {
+"count": 2,
+"where": [
+"modules"
+]
+},
+"my_location": {
+"count": 2,
+"where": [
+"modules",
+"settings"
+]
+},
+"texture_minus": {
+"count": 2,
+"where": [
+"desktopMenu",
+"settings"
+]
+},
+"video_template": {
+"count": 2,
+"where": [
+"desktopMenu",
+"settings"
+]
+},
+"dangerous": {
+"count": 2,
+"where": [
+"onScreenDisplay",
+"settings"
+]
+},
+"volume_down": {
+"count": 2,
+"where": [
+"island",
+"sidebarRight"
+]
+},
+"checklist": {
+"count": 2,
+"where": [
+"bar",
+"sidebarRight"
+]
+},
+"toggle_on": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"vertical_align_top": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"play_circle": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"commit": {
+"count": 2,
+"where": [
+"island",
+"settings"
+]
+},
+"update": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"weather_mix": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"highlight_mouse_cursor": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"position_bottom_right": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"center_focus_strong": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"loupe": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"water_drop": {
+"count": 2,
+"where": [
+"background",
+"settings"
+]
+},
+"center_focus_weak": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"shapes": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"activity_zone": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"font_download": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"space_bar": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"dns": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"subtitles": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"upload": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"cloud_download": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"nest_clock_farsight_analog": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"warning": {
+"count": 2,
+"where": [
+"sessionScreen",
+"settings"
+]
+},
+"align_horizontal_left": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"grain": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"shuffle": {
+"count": 2,
+"where": [
+"island",
+"settings"
+]
+},
+"drag_pan": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"autoplay": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"graph_6": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"counter_1": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"eraser_size_1": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"line_end": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"bubble": {
+"count": 2,
+"where": [
+"background",
+"settings"
+]
+},
+"steppers": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"empty_dashboard": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"storage": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"tv_off": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"mobile_rotate": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"screen_rotation_alt": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"rotate_90_degrees_cw": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"rotate_90_degrees_ccw": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"margin": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"trackpad_input": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"keyboard_return": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"touch_app": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"swipe": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"backspace": {
+"count": 2,
+"where": [
+"onScreenKeyboard",
+"settings"
+]
+},
+"settop_component": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"fullscreen_exit": {
+"count": 2,
+"where": [
+"settings"
+]
+},
+"settings_ethernet": {
+"count": 2,
+"where": [
+"bar",
+"settings"
+]
+},
+"router": {
+"count": 2,
+"where": [
+"bar",
+"settings"
+]
+},
+"upload_file": {
+"count": 2,
+"where": [
+"files",
+"settings"
+]
+},
+"browse_activity": {
+"count": 2,
+"where": [
+"overlay",
+"sessionScreen"
+]
+},
+"air": {
+"count": 2,
+"where": [
+"background",
+"bar"
+]
+},
+"restore_from_trash": {
+"count": 2,
+"where": [
+"files"
+]
+},
+"keep_off": {
+"count": 2,
+"where": [
+"files"
+]
+},
+"drive_folder_upload": {
+"count": 2,
+"where": [
+"files"
+]
+},
+"sleep": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"autorenew": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"folder_special": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"text_fields": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"space_dashboard": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"folder_managed": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"hourglass_bottom": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"view_quilt": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"dashboard": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"width_normal": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"blur_medium": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"do_not_disturb_on": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"picture_in_picture": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"calendar_today": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"special_character": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"chat": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"web": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"password": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"arrow_selector_tool": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"nightlight": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"battery_1_bar": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"battery_0_bar": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"shield_lock": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"movie": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"computer": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"memory_alt": {
+"count": 1,
+"where": [
+"tacit-settings"
+]
+},
+"keyboard_alt": {
+"count": 1,
+"where": [
+"welcome"
+]
+},
+"network_wifi_3_bar": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"signal_wifi_statusbar_not_connected": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"signal_wifi_off": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"signal_wifi_bad": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"move_item": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"sd_card": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"usb": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"loop": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"hourglass_empty": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"input": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"accessibility_new": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"instant_mix": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"bottom_app_bar": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"power_off": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"artist": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"assistant": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"settings_suggest": {
+"count": 1,
+"where": [
+"services"
+]
+},
+"tag": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"match_case": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"find_replace": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"weather_hail": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"snowing_heavy": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"snowing": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"clear_day": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"partly_cloudy_night": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"desktop_access_disabled": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"page_footer": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"link": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"reply": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"inventory": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"priority_high": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"motion_play": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"save_as": {
+"count": 1,
+"where": [
+"widgets"
+]
+},
+"frame_person_mic": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"flash_off": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"sunny_snowing": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"flash_on": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"cloud_lock": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"gamepad": {
+"count": 1,
+"where": [
+"models"
+]
+},
+"unarchive": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"archive": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"step": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"steps": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"auto_mode": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"map": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"mode": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"phone": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"smartphone": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"attach_file": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"chat_bubble": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"help": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"check_box": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"check_box_outline_blank": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"view_sidebar": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"difference": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"replay": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"schedule_send": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"add_comment": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"note_add": {
+"count": 1,
+"where": [
+"modules"
+]
+},
+"lock_open": {
+"count": 1,
+"where": [
+"desktopMenu"
+]
+},
+"routine": {
+"count": 1,
+"where": [
+"onScreenDisplay"
+]
+},
+"mode_off_on": {
+"count": 1,
+"where": [
+"sidebarRight"
+]
+},
+"filter": {
+"count": 1,
+"where": [
+"sidebarRight"
+]
+},
+"captive_portal": {
+"count": 1,
+"where": [
+"sidebarRight"
+]
+},
+"remove_done": {
+"count": 1,
+"where": [
+"sidebarRight"
+]
+},
+"fullscreen": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"pause_circle": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"cell_tower": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"timer_off": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"video_file": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"emoji_symbols": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"keyboard_command_key": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"assistant_navigation": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"thermometer": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"location_city": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"settings_panorama": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"settings_heart": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"planner_banner_ad_pt": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"bottom_navigation": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"vertical_align_bottom": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"unfold_more_double": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"arrow_cool_down": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"arrow_range": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"position_bottom_left": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"overview_key": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"mobiledata_arrows": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"splitscreen_bottom": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"background_dot_small": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"settings_power": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"key_vertical": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"high_density": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"right_panel_open": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"nearby": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"ink_selection": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"gesture": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"eraser_size_3": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"voting_chip": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"text_format": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"emoticon": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"book_ribbon": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"mood_heart": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"hardware": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"tv_options_input_settings": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"format_color_text": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"wall_art": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"newsmode": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"link_2": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"pace": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"scoreboard": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"charger": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"hearing": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"arrow_warm_up": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"notification_sound": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"language_japanese_kana": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"work_alert": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"assignment": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"preview": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"split_scene": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"thumbnail_bar": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"side_navigation": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"align_horizontal_right": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"whatshot": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"water": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"broken_image": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"clock_loader_40": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"shield_watch": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"vertical_distribute": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"format_bold": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"fit_width": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"wand_stars": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"airwave": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"add_triangle": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"brightness_7": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"history_toggle_off": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"highlighter_size_2": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"eraser_size_5": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"eraser_size_2": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"eraser_size_4": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"pen_size_1": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"adjust": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"bubble_chart": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"rotate_right": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"rectangle": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"note_stack_add": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"add_task": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"grid_4x4": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"handshake": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"devices": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"workspaces": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"flare": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"network_check": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"inbox": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"battery_android_frame_full": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"horizontal_distribute": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"splitscreen_add": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"pivot_table_chart": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"brush": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"variable_insert": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"preview_off": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"panorama_wide_angle": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"imagesearch_roller": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"counter_2": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"inbox_customize": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"vertical_align_center": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"buttons_alt": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"looks_3": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"glyphs": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"account_balance": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"award_star": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"view_column": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"page_control": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"incomplete_circle": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"circles": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"decimal_increase": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"titlecase": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"tooltip": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"package_2": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"build": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"auto_fix_high": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"keyboard_double_arrow_right": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"crop_portrait": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"crop_square": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"crop_landscape": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"ev_shadow": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"blur_linear": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"expand_all": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"equal": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"nutrition": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"tonality": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"lens": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"responsive_layout": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"view_carousel": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"open_with": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"open_in_full": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"app_registration": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"pin": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"bookmarks": {
+"count": 1,
+"where": [
+"settings"
+]
+},
+"security": {
+"count": 1,
+"where": [
+"polkit"
+]
+},
+"recenter": {
+"count": 1,
+"where": [
+"overlay"
+]
+},
+"note_stack": {
+"count": 1,
+"where": [
+"overlay"
+]
+},
+"photo_camera": {
+"count": 1,
+"where": [
+"overlay"
+]
+},
+"capture": {
+"count": 1,
+"where": [
+"overlay"
+]
+},
+"horizontal_rule": {
+"count": 1,
+"where": [
+"equalizer"
+]
+},
+"trending_up": {
+"count": 1,
+"where": [
+"equalizer"
+]
+},
+"star": {
+"count": 1,
+"where": [
+"equalizer"
+]
+},
+"piano": {
+"count": 1,
+"where": [
+"equalizer"
+]
+},
+"key_off": {
+"count": 1,
+"where": [
+"wallpaperSelector"
+]
+},
+"subdirectory_arrow_right": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"volume_mute": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"crop_free": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"window": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"arrow_outward": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"repeat_one": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"repeat": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"music_off": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"move_to_inbox": {
+"count": 1,
+"where": [
+"island"
+]
+},
+"humidity_low": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"readiness_score": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"keyboard_control_key": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"heart_check": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"browser_updated": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"finance_mode": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"calendar_clock": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"check_indeterminate_small": {
+"count": 1,
+"where": [
+"bar"
+]
+},
+"image_search": {
+"count": 1,
+"where": [
+"regionSelector"
+]
+},
+"document_scanner": {
+"count": 1,
+"where": [
+"regionSelector"
+]
+},
+"subdirectory_arrow_left": {
+"count": 1,
+"where": [
+"onScreenKeyboard"
+]
+},
+"hide_image": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"self_improvement": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"hourglass_top": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"photo": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"motion_photos_on": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"wb_sunny": {
+"count": 1,
+"where": [
+"background"
+]
+},
+"travel": {
+"count": 1,
+"where": [
+"overview"
+]
+},
+"select_all": {
+"count": 1,
+"where": [
+"files"
+]
+},
+"drive_file_move": {
+"count": 1,
+"where": [
+"files"
+]
+},
+"eject": {
+"count": 1,
+"where": [
+"files"
+]
+},
+"data_usage": {
+"count": 1,
+"where": [
+"files"
+]
+},
+"exclamation": {
+"count": 1,
+"where": [
+"screenTranslator"
+]
+},
+"settings_applications": {
+"count": 1,
+"where": [
+"sessionScreen"
+]
+},
+"shift": {
+"count": 1,
+"where": [
+"onScreenKeyboard"
+]
+},
+"expand": {
+"count": 1,
+"where": [
+"onScreenKeyboard"
+]
+}
+}

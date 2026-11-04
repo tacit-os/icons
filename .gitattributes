@@ -1,0 +1,7 @@
+# the public copy (tools/publish-source uses git archive) carries the finished icons and the tools that make them;
+# the design sketches, the contact sheets and the attic stay in this repo
+/sketch*/** export-ignore
+/sketch*.py export-ignore
+/sheet*.py export-ignore
+/cursor_options.py export-ignore
+/attic/** export-ignore
