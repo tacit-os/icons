@@ -24,7 +24,7 @@ CONF = f"{HOME}/.local/state/quickshell/user/generated/tacit-cursor.conf"
 OUT = f"{HOME}/.local/share/icons/Tacit"
 
 
-def size():
+def chosen_size():
     """The size Tacit Settings chose: it writes gsettings cursor-size (the login line reads the same)."""
     try:
         out = subprocess.run(["gsettings", "get", "org.gnome.desktop.interface", "cursor-size"], capture_output=True, text=True).stdout
@@ -110,7 +110,10 @@ def main():
     os.rename(new, out)
     shutil.rmtree(old, ignore_errors=True)
     if "--out" not in sys.argv:
-        subprocess.run(["hyprctl", "setcursor", "Tacit", str(size())], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        # Hyprland keeps the theme it loaded while the name and size stay the same, so the new colours showed only at
+        # the next login (Discord, SrwR16, 2026-11-05): through Adwaita (the theme Tacit inherits) and back
+        for theme in ("Adwaita", "Tacit"):
+            subprocess.run(["hyprctl", "setcursor", theme, str(chosen_size())], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
 if __name__ == "__main__":
